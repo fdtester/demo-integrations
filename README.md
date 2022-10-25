@@ -1,2 +1,2 @@
 # demo-integrations
-Demo for integration
+Demo for frictionless framework integrations
